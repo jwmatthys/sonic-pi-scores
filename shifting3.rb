@@ -1,6 +1,6 @@
 load_samples "/home/jwmatthys/MEGA/compositions/shifting/"
 
-# Shifting Baselines
+# Golden Head by Golden Head
 
 use_bpm 108
 bass = 41
